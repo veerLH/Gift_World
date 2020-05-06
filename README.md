@@ -15,7 +15,7 @@ Flutter application with **Laravel Api**,
 
 <img src="img/screen_shot/img4.jpg" width="300px" class="mr10"> <img src="img/screen_shot/img5.jpg" width="300px"> <img src="img/screen_shot/img6.jpg" width="300px">
 
-<img src="img/screen_shot/img7.jpg" width="300px"><img src="img/screen_shot/img8.jpg" width="300px" >
+<img src="img/screen_shot/img7.jpg" width="300px">   <img src="img/screen_shot/img8.jpg" width="300px" >
 
 
 
