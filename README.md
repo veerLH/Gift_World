@@ -13,4 +13,4 @@ Flutter application with **Laravel Api**,
 # Design 
 
 ![alt text](https://github.com/veerLH/Gift_World/blob/master/img/screen_shot/img0.jpg?raw=true)
-!["giftworld"](https://github.com/veerLH/Gift_World/blob/master/img/screen_shot/img0.jpg?raw=true =250x250)
+!["giftworld"](https://github.com/veerLH/Gift_World/blob/master/img/screen_shot/img0.jpg =250x250)
