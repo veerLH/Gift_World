@@ -11,6 +11,6 @@ Flutter application with **Laravel Api**,
 - retrofit
 
 # Design 
-<img src="img/screen_shot/img0.jpg" width="250px">   <img src="img/screen_shot/img1.jpg" width="250px">
+<img src="img/screen_shot/img0.jpg" width="250px">      <img src="img/screen_shot/img1.jpg" width="250px">
 
 
